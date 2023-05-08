@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color:aqua;
+}
+
+p {
+    color: red;
+}
